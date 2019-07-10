@@ -16,7 +16,7 @@ Table of Contents
  	* [Presentations & Talks](#-Presentations-&-Talks)
  	* [ACF2 Specific references](#-ACF2-Specific-references)
  	* [Misc](#-misc)
-* [IBM iSeries](#-iSeries)
+* [IBM iSeries](#-IBM-iSeries)
 
  
  
@@ -91,7 +91,7 @@ Table of Contents
 * [GIAC - ACF2 Mainframe Security](https://www.giac.org/paper/gsec/2812/acf2-mainframe-security/104768)
 
 
-## [↑](#table-of-contents)Misc
+## [↑](#table-of-contents) Misc
 * [Mainframe Hacking - Choose Your own Adventure Game](https://archive.org/details/MainframeHackingCYOA)
 * [z/OS Internet Library by IBM - Collection of manuals,guides & books about z/OS ](https://www-01.ibm.com/servers/resourcelink/svc00100.nsf/pages/zosInternetLibrary)
 * [Mainframe Hacking Training/Course](https://evilmainframe.com/)
