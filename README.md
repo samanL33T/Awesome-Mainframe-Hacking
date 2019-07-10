@@ -12,7 +12,7 @@ Table of Contents
 
 * [IBM zSeries](#-IBM-zSeries)
  	* [Books & Tutorials](#-Books-&-Tutorials)
- 	* [Tools](#-Scripts-&-Tools)
+ 	* [Scripts & Tools](#-Scripts-&-Tools)
  	* [Presentations & Talks](#-Presentations-&-Talks)
  	* [ACF2 Specific references](#-ACF2-Specific-references)
  	* [Misc](#-misc)
