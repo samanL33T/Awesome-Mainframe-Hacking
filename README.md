@@ -11,9 +11,9 @@ Table of Contents
 =================
 
 * [IBM zSeries](#-IBM-zSeries)
- 	* [Books & Tutorials](#-Books-&-Tutorials)
- 	* [Scripts & Tools](#-Scripts-&-Tools)
- 	* [Presentations & Talks](#-Presentations-&-Talks)
+ 	* [Books & Tutorials](#-Books-and-Tutorials)
+ 	* [Scripts & Tools](#-Scripts-and-Tools)
+ 	* [Presentations & Talks](#-Presentations-and-Talks)
  	* [ACF2 Specific references](#-ACF2-Specific-references)
  	* [Misc](#-misc)
 * [IBM iSeries](#-IBM-iSeries)
@@ -22,7 +22,7 @@ Table of Contents
  
 # [↑](#table-of-contents) IBM zSeries
 
-## [↑](#table-of-contents) Books & Tutorials
+## [↑](#table-of-contents) Books and Tutorials
 * [Mainframe Basics for Security Professionals_ Getting Started with RACF - Ori Pomerantz, Barbara Vander Weele, Mark E. Nelson, Tim Hahn (2008, IBM Press)](https://www.amazon.com/Mainframe-Basics-Security-Professionals-paperback/dp/0133763048)
 * [IBM Redbooks - Introduction to the New Mainframe: z/OS Basics](https://www.amazon.com/Introduction-New-Mainframe-OS-Basics/dp/0738435341)
 * [PoCorGTFO#12 - Page 32 - A JCL Adventure with Network Job Entry](https://www.exploit-db.com/download/40624)
@@ -34,7 +34,7 @@ Table of Contents
 * [Using UNIX System Services to escalate your privileges on z/OS](https://www.bigendiansmalls.com/all-aboard-the-uss-exploits/)
 
 
-## [↑](#table-of-contents) Scripts & Tools
+## [↑](#table-of-contents) Scripts and Tools
 * [TN3270 Clients - X3270](http://x3270.bgp.nu/)
 * [Multipurpose Nmap Scripts](https://github.com/nmap/nmap/tree/master/scripts)
 	* tn3270-screen.nse
@@ -65,7 +65,7 @@ Table of Contents
 * [Note on TESTAUTH command for running a program in elevated state](https://github.com/zBit31/testauth)
   
  
-## [↑](#table-of-contents) Presentations & Talks
+## [↑](#table-of-contents) Presentations and Talks
 * [All the talks by Soldier of FORTRAN (@mainframed767)](https://www.youtube.com/playlist?list=PLBVy6TfEpKmEL56fb5AnZCM8pXXFfJS0n)
 * [How to BReak into z/OS Systems - Staurt Henderson](http://www.stuhenderson.com/XBRKZTXT.PDF)
 * [How to Break Into z/OS Systems Through USS, TCP/IP, and the Internet](http://www.stuhenderson.com/STUuss01.pdf)
