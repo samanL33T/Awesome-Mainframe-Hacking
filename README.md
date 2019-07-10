@@ -11,10 +11,10 @@ Table of Contents
 =================
 
 * [IBM zSeries](#-IBM-zSeries)
- 	* [Books & Tutorials](#-books-&-tutorials)
- 	* [Tools](#-Scripts-&-tools)
- 	* [Presentations & Talks](#-presentation-&-talks)
- 	* [ACF2 Specific references](#-acf2-specific-references)
+ 	* [Books & Tutorials](#-Books-&-Tutorials)
+ 	* [Tools](#-Scripts-&-Tools)
+ 	* [Presentations & Talks](#-Presentations-&-Talks)
+ 	* [ACF2 Specific references](#-ACF2-Specific-references)
  	* [Misc](#-misc)
 * [IBM iSeries](#-iSeries)
 
