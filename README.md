@@ -10,12 +10,11 @@ Pull requests are welcome.
 Table of Contents
 =================
 
-* [IBM zSeries](#-IBM+zSeries)
- 	* [Books](#-books)
- 	* [Tools](#-Scripts & tools)
- 	* [Tutorials](#-tutorials)
- 	* [Presentations & Talks](#-presentation&talks)
- 	* [ACF2 Specific references](#-acf2specificref)
+* [IBM zSeries](#-IBM-zSeries)
+ 	* [Books & Tutorials](#-books-&-tutorials)
+ 	* [Tools](#-Scripts-&-tools)
+ 	* [Presentations & Talks](#-presentation-&-talks)
+ 	* [ACF2 Specific references](#-acf2-specific-references)
  	* [Misc](#-misc)
 * [IBM iSeries](#-iSeries)
 
@@ -23,10 +22,16 @@ Table of Contents
  
 # [↑](#table-of-contents) IBM zSeries
 
-## [↑](#table-of-contents)Books
+## [↑](#table-of-contents)Books & Tutorials
 * [Mainframe Basics for Security Professionals_ Getting Started with RACF - Ori Pomerantz, Barbara Vander Weele, Mark E. Nelson, Tim Hahn (2008, IBM Press)](https://www.amazon.com/Mainframe-Basics-Security-Professionals-paperback/dp/0133763048)
 * [IBM Redbooks - Introduction to the New Mainframe: z/OS Basics](https://www.amazon.com/Introduction-New-Mainframe-OS-Basics/dp/0738435341)
 * [PoCorGTFO#12 - Page 32 - A JCL Adventure with Network Job Entry](https://www.exploit-db.com/download/40624)
+* [Emulating a MVS/zOS with Hercules](https://famicoman.com/2018/06/28/emulating-a-z-os-mainframe-with-hercules/)
+* [bigiron - Wiki/Collection of materials related to IBM z/OS security](https://github.com/v-p-b/bigiron)
+* [TSO Tutorial](http://www.jaymoseley.com/hercules/tso_tutor/tsotutor.htm)
+* [Z/OS Introduction- An IBM Redbooks video course](https://www.redbooks.ibm.com/redbooks.nsf/redbookabstracts/crse0304.html?Open)
+* [Multiple Mainframe Security guides from Chicago Classic Computing](http://chiclassiccomp.org/docs/content/computing/IBM/Mainframe/MainframeSecurity/)
+* [Using UNIX System Services to escalate your privileges on z/OS](https://www.bigendiansmalls.com/all-aboard-the-uss-exploits/)
 
 
 ## [↑](#table-of-contents) Scripts & Tools
@@ -59,15 +64,7 @@ Table of Contents
 * [zOS Privilege Escalation scripts by Ayoul](https://github.com/ayoul3/Privesc)
 * [Note on TESTAUTH command for running a program in elevated state](https://github.com/zBit31/testauth)
   
-## [↑](#table-of-contents) Tutorials
-* [Emulating a MVS/zOS with Hercules](https://famicoman.com/2018/06/28/emulating-a-z-os-mainframe-with-hercules/)
-* [bigiron - Wiki/Collection of materials related to IBM z/OS security](https://github.com/v-p-b/bigiron)
-* [TSO Tutorial](http://www.jaymoseley.com/hercules/tso_tutor/tsotutor.htm)
-* [Z/OS Introduction- An IBM Redbooks video course](https://www.redbooks.ibm.com/redbooks.nsf/redbookabstracts/crse0304.html?Open)
-* [Multiple Mainframe Security guides from Chicago Classic Computing](http://chiclassiccomp.org/docs/content/computing/IBM/Mainframe/MainframeSecurity/)
-* [Using UNIX System Services to escalate your privileges on z/OS](https://www.bigendiansmalls.com/all-aboard-the-uss-exploits/)
-* 
-  
+ 
 ## [↑](#table-of-contents) Presentations & Talks
 * [All the talks by Soldier of FORTRAN (@mainframed767)](https://www.youtube.com/playlist?list=PLBVy6TfEpKmEL56fb5AnZCM8pXXFfJS0n)
 * [How to BReak into z/OS Systems - Staurt Henderson](http://www.stuhenderson.com/XBRKZTXT.PDF)
@@ -105,6 +102,3 @@ Table of Contents
 # [↑](#table-of-contents) IBM iSeries
 
 ## [↑](#table-of-contents)Work In Progress..
-
-
- 
