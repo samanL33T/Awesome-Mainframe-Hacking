@@ -12,7 +12,7 @@ Table of Contents
 
 * [IBM zSeries](#-IBM-zSeries)
  	* [Books](#-Books)
- 	* [Tutorials](#-tutorials)
+ 	* [Tutorials](#-Tutorials)
  	* [Scripts & Tools](#-Scripts-and-Tools)
  	* [Presentations & Talks](#-Presentations-and-Talks)
  	* [ACF2 Specific references](#-ACF2-Specific-references)
@@ -34,7 +34,7 @@ Table of Contents
 * [PoCorGTFO#12 - Page 32 - A JCL Adventure with Network Job Entry](https://www.exploit-db.com/download/40624)
 
 
-## [↑](#table-of-contents) Books
+## [↑](#table-of-contents) Tutorials
 * [Emulating a MVS/zOS with Hercules](https://famicoman.com/2018/06/28/emulating-a-z-os-mainframe-with-hercules/)
 * [bigiron - Wiki/Collection of materials related to IBM z/OS security](https://github.com/v-p-b/bigiron)
 * [TSO Tutorial](http://www.jaymoseley.com/hercules/tso_tutor/tsotutor.htm)
