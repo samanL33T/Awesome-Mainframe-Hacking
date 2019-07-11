@@ -3,7 +3,7 @@
 List of Awesome Mainframe Hacking/Pentesting Resources
 This list is a collection of resources available online to learn Mainframe Penetration Testing & Security.
 
-Special thanks to @mainframed67, @bigendiamsmalls, @ayoul3 for all their work in this field. 
+Special thanks to @mainframed67(https://twitter.com/mainframed767), @bigendiamsmalls(https://twitter.com/bigendiansmalls), @ayoul3__(https://twitter.com/ayoul3__) and many other researchers for all their work in this field. 
 
 Pull requests are welcome.
 
@@ -11,28 +11,36 @@ Table of Contents
 =================
 
 * [IBM zSeries](#-IBM-zSeries)
- 	* [Books & Tutorials](#-Books-and-Tutorials)
+ 	* [Books & Tutorials](#-Books)
+ 	* [Tutorials](#-tutorials)
  	* [Scripts & Tools](#-Scripts-and-Tools)
  	* [Presentations & Talks](#-Presentations-and-Talks)
  	* [ACF2 Specific references](#-ACF2-Specific-references)
  	* [Misc](#-misc)
 * [IBM iSeries](#-IBM-iSeries)
+ 	* [Books & Tutorials](#-Books)
+ 	* [Tutorials](#-tutorials)
+ 	* [Scripts & Tools](#-Scripts-and-Tools)
+ 	* [Presentations & Talks](#-Presentations-and-Talks)
+ 	* [Misc](#-misc)
 
  
  
 # [↑](#table-of-contents) IBM zSeries
 
-## [↑](#table-of-contents) Books and Tutorials
+## [↑](#table-of-contents) Books
 * [Mainframe Basics for Security Professionals_ Getting Started with RACF - Ori Pomerantz, Barbara Vander Weele, Mark E. Nelson, Tim Hahn (2008, IBM Press)](https://www.amazon.com/Mainframe-Basics-Security-Professionals-paperback/dp/0133763048)
 * [IBM Redbooks - Introduction to the New Mainframe: z/OS Basics](https://www.amazon.com/Introduction-New-Mainframe-OS-Basics/dp/0738435341)
 * [PoCorGTFO#12 - Page 32 - A JCL Adventure with Network Job Entry](https://www.exploit-db.com/download/40624)
+
+
+## [↑](#table-of-contents) Books
 * [Emulating a MVS/zOS with Hercules](https://famicoman.com/2018/06/28/emulating-a-z-os-mainframe-with-hercules/)
 * [bigiron - Wiki/Collection of materials related to IBM z/OS security](https://github.com/v-p-b/bigiron)
 * [TSO Tutorial](http://www.jaymoseley.com/hercules/tso_tutor/tsotutor.htm)
 * [Z/OS Introduction- An IBM Redbooks video course](https://www.redbooks.ibm.com/redbooks.nsf/redbookabstracts/crse0304.html?Open)
 * [Multiple Mainframe Security guides from Chicago Classic Computing](http://chiclassiccomp.org/docs/content/computing/IBM/Mainframe/MainframeSecurity/)
 * [Using UNIX System Services to escalate your privileges on z/OS](https://www.bigendiansmalls.com/all-aboard-the-uss-exploits/)
-
 
 ## [↑](#table-of-contents) Scripts and Tools
 * [TN3270 Clients - X3270](http://x3270.bgp.nu/)
