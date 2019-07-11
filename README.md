@@ -77,7 +77,7 @@ Table of Contents
  
 ## [↑](#table-of-contents) Presentations and Talks
 * [Video - All the talks by Soldier of FORTRAN (@mainframed767)](https://www.youtube.com/playlist?list=PLBVy6TfEpKmEL56fb5AnZCM8pXXFfJS0n)
-* [How to BReak into z/OS Systems - Staurt Henderson](http://www.stuhenderson.com/XBRKZTXT.PDF)
+* [How to Break into z/OS Systems - Staurt Henderson](http://www.stuhenderson.com/XBRKZTXT.PDF)
 * [How to Break Into z/OS Systems Through USS, TCP/IP, and the Internet](http://www.stuhenderson.com/STUuss01.pdf)
 * [Video - Mainframe [z/OS] Reverse Engineering & Exploit Development by @bigendiansmalls](https://www.bigendiansmalls.com/files/us-18-Rikansrud-Mainframe-[zOS]-Reverse-Engineering-and-Exploit-Development_Publish.mp4)
 * [Video - Security Necromancy : Further Adventures in Mainframe Hacking by Soldier of FORTRAN (@mainframed767) & @bigendiansmalls](https://www.youtube.com/watch?v=LgmqiugpVyU)
