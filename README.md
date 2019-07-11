@@ -18,11 +18,11 @@ Table of Contents
  	* [ACF2 Specific references](#-ACF2-Specific-references)
  	* [Misc](#-misc)
 * [IBM iSeries](#-IBM-iSeries)
- 	* [Books](#-Books)
- 	* [Tutorials](#-tutorials)
- 	* [Scripts & Tools](#-Scripts-and-Tools)
- 	* [Presentations & Talks](#-Presentations-and-Talks)
- 	* [Misc](#-misc)
+ 	* [iSeries Books](#-iSeries-Books)
+ 	* [Tutorials & Checklists](#-Tutorials-and-Checklists)
+ 	* [Tools](#-Tools)
+ 	* [iSeries Presentations & Talks](#-iSeries-Presentations-and-Talks)
+ 	* [Miscellaneous](#-miscellaneous)
 
  
  
@@ -109,4 +109,24 @@ Table of Contents
 
 # [↑](#table-of-contents) IBM iSeries
 
-## [↑](#table-of-contents)Work In Progress..
+## [↑](#table-of-contents) iSeries Books
+* Amazon - [Hacking iSeries by Shalom Carmel](https://www.amazon.com/Hacking-iSeries-Shalom-Carmel/dp/1419625012)
+* Amazon - [Mastering IBM i: The Complete Resource for Today's IBM i System by Jim Buck & Jerry Fottral](https://www.amazon.com/Mastering-IBM-Complete-Resource-Todays/dp/1583473564)
+* PDF - [The IBM AS400 A technical introduction](https://www.ibm.com/developerworks/community/files/basic/anonymous/api/library/7cd1e29f-0699-4929-a741-516ce47295a8/document/745425bf-c00a-4a8d-bd8f-1f8e14ef9e65/media)
+
+
+## [↑](#table-of-contents) Tutorials & Checklists
+* [AS/400 Security Assessment Mindmap](http://www.toolswatch.org/wp-content/uploads/2013/02/AS400.jpg)
+
+## [↑](#table-of-contents) Tools
+* [hack400tool - security handling tools for IBM Power Systems (formerly known as AS/400)](https://github.com/hackthelegacy/hack400tool)
+* [Hash generator for IBM System i hashes (DES, SHA-1)](http://hackthelegacy.org/index.php?p=/discussion/10/hash-generator-for-ibm-system-i-hashes-des-sha-1-updated)
+* [AS/400 SHA-1 hash format plugin for John the Ripper](http://hackthelegacy.org/index.php?p=/discussion/9/our-as-400-sha-1-hash-format-plugin-for-john-the-ripper-now-included-in-the-bleeding-jumbo-build)
+
+## [↑](#table-of-contents) iSeries Presentations & Talks
+* [Hack the Legacy: IBM I aka AS400 Revealed by Bart Kulach ](https://www.youtube.com/watch?v=JsqUZ3xGdLc)
+* [AS/400 for pentesters by Shalom Carmel](https://www.blackhat.com/presentations/bh-europe-06/bh-eu-06-Carmel/bh-eu-06-Carmel.pdf)
+
+## [↑](#table-of-contents) Miscellaneous
+* [AS400i.com](http://as400i.com/)
+* [Hack The Legacy Website](http://hackthelegacy.org/)
