@@ -11,7 +11,7 @@ Table of Contents
 =================
 
 * [IBM zSeries](#-IBM-zSeries)
- 	* [Books & Tutorials](#-Books)
+ 	* [Books](#-Books)
  	* [Tutorials](#-tutorials)
  	* [Scripts & Tools](#-Scripts-and-Tools)
  	* [Presentations & Talks](#-Presentations-and-Talks)
