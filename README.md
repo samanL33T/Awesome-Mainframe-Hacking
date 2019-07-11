@@ -2,7 +2,7 @@
 ![Awesome Mainframe Hacking](https://img.shields.io/badge/mainframe-hacking-lightgrey.svg) ![Awesome Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![Awesome community](https://img.shields.io/badge/awesome-community-green.svg) <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 
 
-List of Awesome Mainframe Hacking/Pentesting Resources
+List of Awesome Mainframe Hacking/Pentesting Resources.
 This list is a collection of resources available online to learn Mainframe Penetration Testing & Security.
 
 Special thanks to [@mainframed767](https://twitter.com/mainframed767), [@bigendiansmalls](https://twitter.com/bigendiansmalls), [@ayoul3__](https://twitter.com/ayoul3__) and many other researchers for all their work in this field. 
