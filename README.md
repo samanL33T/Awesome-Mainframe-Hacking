@@ -115,7 +115,7 @@ Table of Contents
 * PDF - [The IBM AS400 A technical introduction](https://www.ibm.com/developerworks/community/files/basic/anonymous/api/library/7cd1e29f-0699-4929-a741-516ce47295a8/document/745425bf-c00a-4a8d-bd8f-1f8e14ef9e65/media)
 
 
-## [↑](#table-of-contents) Tutorials & Checklists
+## [↑](#table-of-contents) Tutorials and Checklists
 * [AS/400 Security Assessment Mindmap](http://www.toolswatch.org/wp-content/uploads/2013/02/AS400.jpg)
 
 ## [↑](#table-of-contents) Tools
