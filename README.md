@@ -95,6 +95,7 @@ Table of Contents
 * [Video - IBM Networking Attacks-Or The Easiest Way To Own A Mainframe by Martyn Ruks](https://www.youtube.com/watch?v=r9hOiXtrumM)
 * [Video - Cracking Mainframe Passwords by Nigel Pentland](https://www.youtube.com/watch?v=scVojIRxv-M)
 * [Video - Exploiting the Mainframe - Z/OS integrity 101 by Mark Wilson & Ray Overby](https://www.youtube.com/watch?v=7UVrF8skbHU)
+* [Video - A Gentle Introduction to Hacking Mainframes by Dan Helton](https://www.youtube.com/watch?v=ZfUBv2Ac29Q)
 
    
 ## [↑](#table-of-contents) ACF2 Specific references
