@@ -18,7 +18,7 @@ Table of Contents
  	* [ACF2 Specific references](#-ACF2-Specific-references)
  	* [Misc](#-misc)
 * [IBM iSeries](#-IBM-iSeries)
- 	* [Books & Tutorials](#-Books)
+ 	* [Books(#-Books)
  	* [Tutorials](#-tutorials)
  	* [Scripts & Tools](#-Scripts-and-Tools)
  	* [Presentations & Talks](#-Presentations-and-Talks)
