@@ -73,6 +73,7 @@ Table of Contents
 * [TShOcker - Mini command interpreter for TSO & UNIX accessible by NetCat](https://github.com/mainframed/TShOcker)		
 * [zOS Privilege Escalation scripts by ayoul3__](https://github.com/ayoul3/Privesc)
 * [Note on TESTAUTH command for running a program in elevated state](https://github.com/zBit31/testauth)
+* [zOSFTPlib - python ftplib-like library specifically for Z/OS](https://pypi.org/project/zosftplib/)
   
  
 ## [↑](#table-of-contents) Presentations and Talks
