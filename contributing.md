@@ -22,3 +22,4 @@ This resource was made by the developers and hackers alike! We appreciate and re
 ## Contributors
 
 - [SamanL33T](https://twitter.com/samanL33T)
+- [andrewm4894](https://github.com/andrewm4894)
