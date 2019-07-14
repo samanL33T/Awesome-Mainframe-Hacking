@@ -23,3 +23,4 @@ This resource was made by the developers and hackers alike! We appreciate and re
 
 - [SamanL33T](https://twitter.com/samanL33T)
 - [andrewm4894](https://github.com/andrewm4894)
+- [Blessen Thomas - iSeries -AS/400 Book & Presentation/Video](https://github.com/pentagramz)
