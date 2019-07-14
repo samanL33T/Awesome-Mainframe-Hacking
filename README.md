@@ -117,7 +117,9 @@ Table of Contents
 ## [↑](#table-of-contents) iSeries Books
 * Amazon - [Hacking iSeries by Shalom Carmel](https://www.amazon.com/Hacking-iSeries-Shalom-Carmel/dp/1419625012)
 * Amazon - [Mastering IBM i: The Complete Resource for Today's IBM i System by Jim Buck & Jerry Fottral](https://www.amazon.com/Mastering-IBM-Complete-Resource-Todays/dp/1583473564)
+* Amazon - [Experts' Guide to OS/400 & i5/OS Security by Carol Woodbury & Patrick Botz](https://www.amazon.com/gp/offer-listing/158304096X)
 * PDF - [The IBM AS400 A technical introduction](https://www.ibm.com/developerworks/community/files/basic/anonymous/api/library/7cd1e29f-0699-4929-a741-516ce47295a8/document/745425bf-c00a-4a8d-bd8f-1f8e14ef9e65/media)
+
 
 
 ## [↑](#table-of-contents) Tutorials and Checklists
@@ -131,6 +133,7 @@ Table of Contents
 ## [↑](#table-of-contents) iSeries Presentations and Talks
 * [Hack the Legacy: IBM I aka AS400 Revealed by Bart Kulach ](https://www.youtube.com/watch?v=JsqUZ3xGdLc)
 * [AS/400 for pentesters by Shalom Carmel](https://www.blackhat.com/presentations/bh-europe-06/bh-eu-06-Carmel/bh-eu-06-Carmel.pdf)
+* [AS/400: Lifting the Veil of Obscurity](https://www.youtube.com/watch?v=MWcifBsA8BI)
 
 ## [↑](#table-of-contents) Miscellaneous
 * [AS400i.com](http://as400i.com/)
