@@ -43,6 +43,7 @@ Table of Contents
 * [Z/OS Introduction- An IBM Redbooks video course](https://www.redbooks.ibm.com/redbooks.nsf/redbookabstracts/crse0304.html?Open)
 * [Multiple Mainframe Security guides from Chicago Classic Computing](http://chiclassiccomp.org/docs/content/computing/IBM/Mainframe/MainframeSecurity/)
 * [Using UNIX System Services to escalate your privileges on z/OS](https://www.bigendiansmalls.com/all-aboard-the-uss-exploits/)
+* [The crash course to z/OS pentesting](https://github.com/hacksomeheavymetal/zOS/blob/master/pentesting.md) by [@hacksomeheavymetal](https://github.com/hacksomeheavymetal)
 
 ## [↑](#table-of-contents) Scripts and Tools
 * [TN3270 Clients - X3270](http://x3270.bgp.nu/)
@@ -110,6 +111,7 @@ Table of Contents
 * [CBT Tape - Collection of Freeware & Open Source distribution of IBM mainframe MVS & OS/360 Environments](http://www.cbttape.org/)
 * [z/OS Internet Library by IBM - Collection of manuals,guides & books about z/OS ](https://www-01.ibm.com/servers/resourcelink/svc00100.nsf/pages/zosInternetLibrary)
 * [DoD Security Technical implementation Guides(STIGS) - Search for ACF2, Z/OS, RACF etc.](https://public.cyber.mil/stigs/downloads/)
+* [Default Accounts](https://github.com/hacksomeheavymetal/zOS/blob/master/default_accounts.txt)
 
 
 # [↑](#table-of-contents) IBM iSeries
@@ -124,11 +126,17 @@ Table of Contents
 
 ## [↑](#table-of-contents) Tutorials and Checklists
 * [AS/400 Security Assessment Mindmap](http://www.toolswatch.org/wp-content/uploads/2013/02/AS400.jpg)
+* [iSeries Penetration Testing](https://www.helpsystems.com/resources/articles/iseries-penetration-testing)
+* [Security Audit of IBM AS/400 and System i : Part 1](https://blog.securitybrigade.com/security-audit-of-ibm-as-400-system-i-part-1/)
+* [Security Audit of IBM AS/400 and System i : Part 2](https://blog.securitybrigade.com/security-audit-ibm-as-400-system-i-2/)
+* [Seclists Mailing list thread on Pentesting AS/400](https://seclists.org/pen-test/2000/Dec/205)
+* [Resources from Shalom Carmel's talk at BH Europe - 2006](http://www.blackhat.com/presentations/bh-europe-06/bh-eu-06-Carmel/bh-eu-06-carmel-resources.zip)
 
 ## [↑](#table-of-contents) Tools
 * [hack400tool - security handling tools for IBM Power Systems (formerly known as AS/400)](https://github.com/hackthelegacy/hack400tool)
 * [Hash generator for IBM System i hashes (DES, SHA-1)](http://hackthelegacy.org/index.php?p=/discussion/10/hash-generator-for-ibm-system-i-hashes-des-sha-1-updated)
 * [AS/400 SHA-1 hash format plugin for John the Ripper](http://hackthelegacy.org/index.php?p=/discussion/9/our-as-400-sha-1-hash-format-plugin-for-john-the-ripper-now-included-in-the-bleeding-jumbo-build)
+
 
 ## [↑](#table-of-contents) iSeries Presentations and Talks
 * [Hack the Legacy: IBM I aka AS400 Revealed by Bart Kulach ](https://www.youtube.com/watch?v=JsqUZ3xGdLc)
