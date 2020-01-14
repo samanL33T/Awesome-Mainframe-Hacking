@@ -66,7 +66,7 @@ Table of Contents
 	* [Hacked wc3270 emulator](https://github.com/ayoul3/wc3270_hacked)	
 * zOS Enumeration Scripts
 	* [All in one Enumeration of information like VERSION, APF Libraries, SVCs, USERS etc. on Z/OS ](https://github.com/mainframed/Enumeration)
-	* [Collection of REXX Scripts by @ayoul3__(https://github.com/ayoul3/Rexx_scripts)
+	* [Collection of REXX Scripts by @ayoul3__](https://github.com/ayoul3/Rexx_scripts)
 	* [SETRRCVT by @jaytay79](https://github.com/jaytay79/zos/blob/master/SETRRCVT.rexx)
 * [FTP - JCL commmand execution - Metasploit Modules by @bigendiansmalls](https://github.com/rapid7/metasploit-framework/blob/master/documentation/modules/exploit/mainframe/ftp/ftp_jcl_creds.md)
 * [Metasploit Payloads for z/OS](https://github.com/rapid7/metasploit-framework/tree/12198a088132f047e0a86724bc5ebba92a73ac66/modules/payloads/singles/cmd/mainframe)
