@@ -130,6 +130,7 @@ Table of Contents
 * [iSeries Penetration Testing](https://www.helpsystems.com/resources/articles/iseries-penetration-testing)
 * [Security Audit of IBM AS/400 and System i : Part 1](https://blog.securitybrigade.com/security-audit-of-ibm-as-400-system-i-part-1/)
 * [Security Audit of IBM AS/400 and System i : Part 2](https://blog.securitybrigade.com/security-audit-ibm-as-400-system-i-2/)
+* [Security Assessment of the IBM i (AS 400) System : Part 1](https://iisecurity.in/blog/security-assessment-ibm-400-system-part-1/)
 * [Seclists Mailing list thread on Pentesting AS/400](https://seclists.org/pen-test/2000/Dec/205)
 * [Resources from Shalom Carmel's talk at BH Europe - 2006](http://www.blackhat.com/presentations/bh-europe-06/bh-eu-06-Carmel/bh-eu-06-carmel-resources.zip)
 
