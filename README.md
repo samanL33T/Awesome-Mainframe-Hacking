@@ -48,15 +48,15 @@ Table of Contents
 ## [↑](#table-of-contents) Scripts and Tools
 * [TN3270 Clients - X3270](http://x3270.bgp.nu/)
 * [Multipurpose Nmap Scripts](https://github.com/nmap/nmap/tree/master/scripts)
-	* tn3270-screen.nse
-	* tso-enum.nse
-	* tso-brute.nse
-	* vtam-enum.nse
-	* lu-enum.nse
-	* cics-enum.nse
-	* cics-info.nse
-	* cics-user-brute.nse
-	* cics-user-enum.nse
+	* [tn3270-screen.nse](https://nmap.org/nsedoc/scripts/tn3270-screen.html)
+	* [tso-enum.nse](https://nmap.org/nsedoc/scripts/tso-enum.html)
+	* [tso-brute.nse](https://nmap.org/nsedoc/scripts/tso-brute.html)
+	* [vtam-enum.nse](https://nmap.org/nsedoc/scripts/vtam-enum.html)
+	* [lu-enum.nse](https://nmap.org/nsedoc/scripts/lu-enum.html)
+	* [cics-enum.nse](https://nmap.org/nsedoc/scripts/cics-enum.html)
+	* [cics-info.nse](https://nmap.org/nsedoc/scripts/cics-info.html)
+	* [cics-user-brute.nse](https://nmap.org/nsedoc/scripts/cics-user-brute.html)
+	* [cics-user-enum.nse](https://nmap.org/nsedoc/scripts/cics-user-enum.html)
 * [TPX Brute - The z/OS TPX logon panel brute forcer](https://github.com/quentinhardy/TPX-Brute)
 * [RACF Database Parser](https://github.com/bigendiansmalls/racfdbparse)
 * Mainframe Application pentesting (CICS etc.)
@@ -86,6 +86,10 @@ Table of Contents
 * [Top 10 Security Vulnerabilities in z/OS by John Hillman (Vanguard)](https://chapters.theiia.org/fort-worth/ChapterDocuments/zOS%20Security%20Audit%20Top%20Ten%20-%20ISACA.pdf)
 * [The current state of Mainframe Hacking by Phil Young - Soldier of FORTRAN (@mainframed767)](https://www.slideshare.net/PhilipYoung14/philip-young-current-state-of-mainframe-hacking-vanguard-101016)
 * [Advanced Mainframe Hacking by Phil Young - Soldier of FORTRAN (@mainframed767)](https://www.slideshare.net/PhilipYoung14/advanced-mainframe-hacking)
+* [Defcon 22 From ROOT to SPECIAL - Soldier of FORTRAN (@mainframed767)](https://media.defcon.org/DEF%20CON%2022/DEF%20CON%2022%20presentations/DEF%20CON%2022%20-%20Philip-Young-From-root-to-SPECIAL-Hacking-IBM-Mainframes.pdf)
+* [Mainframes: What the F$#K is That About? - Soldier of FORTRAN (@mainframed767)](https://www.dropbox.com/s/zl7suai6g1558yl/April%202013%20-%20ThotCon%202013%20-%20Mainframes-%20What%20the%20fuck%20is%20that%20about-.pdf)
+* [BSidesAustin Mainframes: Everybody has one but nobody knows how to hack them - Soldier of FORTRAN (@mainframed767)](https://www.dropbox.com/s/8vdrhepojde9wah/March%202013%20-%20BSidesAustin%20-%20Mainframes-%20Everyones%20got%20one%2C%20no%20one%20knows%20how%20to%20hack%20them.pdf)
+* [BSidesLV 2013 - Legacy 0-Day How hackers breached the Logica Mainframe - Soldier of FORTRAN (@mainframed767)](https://www.dropbox.com/s/w8c9e4yfsmx56tw/BSidesLV%202013%20-%20Logica%20Breach%20.pdf)
 * [Gaps in your Defense: Hacking the Mainframe by Soldier of FORTRAN (@mainframed767)](https://www.slideshare.net/PhilipYoung14/ca-world-mft1755-gaps-in-your-defense-hacking-the-mainframe-philip-young)
 * [Video - Gaps in your Defense: Hacking the Mainframe by Soldier of FORTRAN (@mainframed767)](https://www.youtube.com/watch?v=1G5Q2sduexs)
 * [Hacking Mainframes; Vulnerabilities in applications exposed over TN3270 by Dominic White (Sensepost)](https://www.slideshare.net/sensepost/vulnerabilities-in-tn3270-based-application)
