@@ -106,7 +106,7 @@ Table of Contents
 * [PDF- Talk - Gibson 101 - Quick Introduction to Hacking Mainframes in 2020](https://null.co.in/event_sessions/2993-gibson-101-quick-introduction-to-hacking-mainframes-in-2020)
 * [Video - Buffer overflow on the mainframe, presented by Jake Labelle](https://www.youtube.com/watch?v=q8mFhDmBEIc)
 * [PDF- Talk - How I Found Mainframe Buffer Overflows by Jake Labelle](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Jake%20Labelle%20-%20Doing%20the%20Impossible%20How%20I%20Found%20Mainframe%20Buffer%20Overflows.pdf)
-
+* [Video - Choose Your Own Adventure by Soldier of FORTRAN (@mainframed767)](https://www.youtube.com/watch?v=Loy9TpFg0bk)
 
    
 ## [↑](#table-of-contents) ACF2 Specific references
@@ -138,7 +138,7 @@ Table of Contents
 
 ## [↑](#table-of-contents) Tutorials and Checklists
 * [AS/400 Security Assessment Mindmap](http://www.toolswatch.org/wp-content/uploads/2013/02/AS400.jpg)
-* [iSeries Penetration Testing](https://www.helpsystems.com/resources/articles/iseries-penetration-testing)
+* [iSeries Penetration Testing](https://www.fortra.com/resources/articles/about-iseries-penetration-testing)
 * [Security Audit of IBM AS/400 and System i : Part 1](https://blog.securitybrigade.com/security-audit-of-ibm-as-400-system-i-part-1/)
 * [Security Audit of IBM AS/400 and System i : Part 2](https://blog.securitybrigade.com/security-audit-ibm-as-400-system-i-2/)
 * [Security Assessment of the IBM i (AS 400) System : Part 1](https://iisecurity.in/blog/security-assessment-ibm-400-system-part-1/)
